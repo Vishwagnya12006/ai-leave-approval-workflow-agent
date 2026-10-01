@@ -164,7 +164,7 @@ python main.py
 
 ## 👨‍💻 Author
  
-**Gollaally Veda Spoorthi**
+**VEGGALAM VISHWAGNYA**
 
 ---
 
